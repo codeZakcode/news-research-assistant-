@@ -1,0 +1,32 @@
+[
+  {
+    "query": "What are the latest AI developments from OpenAI?",
+    "relevant_article_ids": [],
+    "expected_pattern": "recency",
+    "notes": "Fill relevant_article_ids after ingestion run"
+  },
+  {
+    "query": "What is happening with Apple's chip development?",
+    "relevant_article_ids": [],
+    "expected_pattern": "standard",
+    "notes": ""
+  },
+  {
+    "query": "Tell me about recent startup funding rounds in AI",
+    "relevant_article_ids": [],
+    "expected_pattern": "recency",
+    "notes": ""
+  },
+  {
+    "query": "What did TechCrunch report about Google this week?",
+    "relevant_article_ids": [],
+    "expected_pattern": "standard",
+    "notes": ""
+  },
+  {
+    "query": "Latest news on quantum computing breakthroughs",
+    "relevant_article_ids": [],
+    "expected_pattern": "thin_retrieval",
+    "notes": "May trigger broaden_search"
+  }
+]
