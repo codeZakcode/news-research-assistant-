@@ -1,0 +1,30 @@
+# RAG - Fetching & Cleaning
+feedparser
+newsapi-python
+newspaper3k
+beautifulsoup4
+
+# RAG - Chunking & Embeddings
+langchain
+langchain-community
+openai
+sentence-transformers
+
+# RAG - Vector DB
+chromadb
+
+# Agent & MCP
+anthropic
+
+# UI
+streamlit
+
+# Evals
+pandas
+
+# Scheduling
+apscheduler
+
+# Utilities
+python-dotenv
+requests
